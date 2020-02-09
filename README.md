@@ -91,10 +91,6 @@ O cadastro de destinatários só pode ser feito por administradores autenticados
 
 O destinatário não pode se autenticar no sistema, ou seja, não possui senha.
 
-<h1 align="center">
-  <img alt="Fastfeet" title="Fastfeet" src=".github/logo.png" width="300px" />
-</h1>
-
 <h3 align="center">
   Desafio 3: FastFeet, continuando a aplicação
 </h3>
