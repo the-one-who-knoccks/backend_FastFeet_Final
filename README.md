@@ -1,5 +1,5 @@
 <h1 align="center">
-  <ititle="Fastfeet" src="the-one-who-knoccks/bootcamp-gostack-desafio-02/logo.png" width="300px" />
+  <ititle="Fastfeet" img src="Preview/prev01.png width="300px" />
 </h1>
 
 <h3 align="center">
