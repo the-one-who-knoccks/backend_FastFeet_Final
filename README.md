@@ -1,5 +1,6 @@
 <h1 align="center">
-  <ititle="Fastfeet" img src=backend_FastFeet_Final/logo.png width="300px" />
+ <img src="logo.png">
+</br>
 </h1>
 
 <h3 align="center">
